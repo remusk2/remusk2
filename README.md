@@ -1,6 +1,6 @@
 # Hi, I'm Remus Kalathil 
 
-**Cloud Solutions Architect · AWS Community Builder – Containers · NVIDIA-Certified AI Infrastructure**
+**Senior Cloud Engineer · AWS Community Builder – Containers · NVIDIA-Certified AI Infrastructure**
 
 I architect cloud platforms that run at scale — currently at **Expedia Group** where I own Kubernetes infrastructure supporting **430+ clusters**, **9,000+ microservices**, and AI/ML workloads in production on AWS.
 
