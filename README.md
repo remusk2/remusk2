@@ -1,4 +1,4 @@
-# Hi, I'm Remus Kalathil 👋
+# Hi, I'm Remus Kalathil 
 
 **Cloud Solutions Architect · AWS Community Builder – Containers · NVIDIA-Certified AI Infrastructure**
 
